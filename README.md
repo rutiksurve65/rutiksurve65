@@ -41,5 +41,48 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.
 alt=""
 /> 
 </div>
+  <h2>Recent Work:</h2>
+  <ul>
+    <li><a
+href="https://stewdigital.com/"
+target="_blank"
+class="fa fa-linkedin"
+> Stew Digital Solution </a></li>
+      <li><a
+href="https://www.profile-solution.com/"
+target="_blank"
+class="fa fa-linkedin"
+> Profile Data Center Solution Pvt Ltd. </a></li>
+	    <li><a
+href="https://kalptarudapoli.com/"
+target="_blank"
+class="fa fa-linkedin"
+> Kalptaru Resort Dapoli</a></li>
+	    <li><a
+href="https://landlinksdapoli.com/"
+target="_blank"
+class="fa fa-linkedin"
+> Land Links Dapoli </a></li>
+
+  <li><a
+href="https://star9elevators.com/"
+target="_blank"
+class="fa fa-linkedin"
+> Star Nine Elevators </a></li>
+
+<li><a
+href="https://akashkumbharassociates.com/"
+target="_blank"
+class="fa fa-linkedin"
+> Akash Kumbhar And Associates </a></li>
+
+<li><a
+href="https://bharatexperttransline.com/"
+target="_blank"
+class="fa fa-linkedin"
+> Bharat Experts Transline LLP </a></li>
+
+  </ul>
+
 </body>
 <html>
